@@ -1,0 +1,16 @@
+<Payload>
+    <Cities>
+        <City id="spb">Санкт-Петербург</City>
+        <City id="mow">Москва</City>
+    </Cities>
+    <Users>
+        <User city="mow">
+            <email>gmail@gmail.com</email>
+            <fullName>Gmail User</fullName>
+        </User>
+        <User city="spb">
+            <email>admin@javaops.ru</email>
+            <fullName>Admin</fullName>
+        </User>
+    </Users>
+</Payload>
